@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-js","path":"/blog/react","webpackCompilationHash":"","result":{"data":{"markdownRemark":{"frontmatter":{"title":"React","date":"2019-07-18"},"html":"<p>Hello, I am react.</p>"}},"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"react"}}}
